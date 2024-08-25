@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marben Israel</h1>
 <h3 align="center">A passionate DevSecOps</h3>
 
-- 🌱 I’m currently learning **Advance Python**
+- 🌱 I’m currently learning **Advance Python, Certified Kubernetes Administrator (CKA)**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/marben-i-1a939b201/](https://www.linkedin.com/in/marben-i-1a939b201/)
+
+- 💬 Certifications: **AWS SAP, CKAD, CASP, CYSA, SEC+**
 
 - 📫 How to reach me **bendy1025@gmail.com**
+
+- ⚡ Fun fact **Army strong, Veteran life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
